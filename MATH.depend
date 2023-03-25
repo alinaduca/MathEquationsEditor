@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1642189567 source:c:\users\user\desktop\math\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<cmath>
+
