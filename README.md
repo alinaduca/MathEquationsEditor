@@ -11,3 +11,13 @@ Meet the people behind this project:
 - 🧑‍💻 [Cosmin Lupu](https://github.com/LDaniel237)
 
 📝 **Final grade:** 10
+
+## 📱 Interface
+
+![Image1](https://github.com/alinaduca/MathEquationsEditor/blob/main/images/3.png)
+
+![Image2](https://github.com/alinaduca/MathEquationsEditor/blob/main/images/2.png)
+
+![Image3](https://github.com/alinaduca/MathEquationsEditor/blob/main/images/4.png)
+
+![Image4](https://github.com/alinaduca/MathEquationsEditor/blob/main/images/1.png)
